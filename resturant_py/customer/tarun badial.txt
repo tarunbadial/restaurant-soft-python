@@ -1,0 +1,13 @@
+
+
+Customer Serial No : 1
+Customer Name : tarun badial
+Customer Address : noida
+Customer Mobile No : 9646927127
+Customer Table No : 25
+Customer Entry Time : Fri Nov 30 09:55:41 2018
+..........................................................
+Masaledar Chhas................. 50
+Taaze Phal Ka Ras................ 80
+Cream Of Almond’s......................... 250
+TOTAL....................................RS380

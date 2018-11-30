@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------
+**************************SHORBE(Soups)********************************
+-----------------------------------------------------------------------
+Jehangiri Shorba
+A curry flavoured chicken broth...................................RS150
+
+Tamatar Shorba
+A delicately flavoured tamato soup with spices....................RS130
+
+Dakshini Dal Shorba
+an unusually delicious cream of lentil soupR......................RS120
+
+Palak Shorba
+Cream of spinach soup garnished with fresh cream..................RS180
+
+Cream Of Almond’s
+Cream soup flavoured with almond, garnished with fresh cream......RS250
+
+-----------------------------------------------------------------------

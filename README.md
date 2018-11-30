@@ -41,8 +41,8 @@ In this I am using only command line interface. Mysql is used for database stori
 
 * When you selcet a course then automatically show the Course Detial like following :
 
-![Course item select](/images/showprice list course.png)
+![Course item select](/images/showpricelistcourse.png)
 
 * After selection the dishes click on the final button and the click on the bill button:
 
-![Final Bill](/images/final bill.png)# restaurant-soft-python
+![Final Bill](/images/finalbill.png)
