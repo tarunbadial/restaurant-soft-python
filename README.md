@@ -21,13 +21,13 @@ In this I am using only command line interface. Mysql is used for database stori
 * Enter user root and password is root which you are enter unter the db restaurant and  in the mysql table like login:
     * Firstly you are create a database in mysql name restaurant and create a table under the restaurant database name login. 
     
-    ![first screen](restaurant/images/database1.png)
+    ![first screen](/images/database1.png)
 
-    ![change database](restaurant/images/changedatabase.png)
+    ![change database](/images/changedatabase.png)
     
     * Enter the user whose want to login in yours software like following users:        
 
-    ![table data show](restaurant/images/tablesdatashow.png)
+    ![table data show](/images/tablesdatashow.png)
 
 * Login by the user given into the mysql login table.
 
