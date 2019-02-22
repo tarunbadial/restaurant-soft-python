@@ -14,7 +14,7 @@ In this I am using only command line interface. Mysql is used for database stori
     
   ◦ Write command in cmd  pip install pymysql for link between mysql and python.
 
-* I am curently using window 10 operating system
+* I am currently using window 10 operating system
 
 ## How to run:
 
