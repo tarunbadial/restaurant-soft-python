@@ -8,9 +8,9 @@ In this I am using only command line interface. Mysql is used for database stori
 
 ## System Requirements:
 
-• Python 3.7 [download](https://www.python.org/downloads/)
+• Python 3.7 [Download](https://www.python.org/downloads/)
 
-• Mysql : If need in your system you can be download and install on [link](https://www.mysql.com/downloads/)
+• Mysql : If need in your system you can be download and install on [Mysql Download](https://www.mysql.com/downloads/)
     
   ◦ Write command in cmd  pip install pymysql for link between mysql and python.
 
